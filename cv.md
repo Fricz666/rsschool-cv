@@ -1,4 +1,4 @@
-# Misha Hudachenko
+# Misha Khudachenko
 
 ## Contacts
 * Location: Minsk, Belarus
