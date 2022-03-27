@@ -28,3 +28,15 @@ function mult(a,b){
 let result = mult(4,5);
 alert(result);
 ```
+## Experience 
+I dont have real experience
+
+## Education
+* University: Belarus State University, Specialist in Aerospace Radio-Electronic and Information Systems and Technologies
+* Courses:
++ CS50
++ JavaRush
++ HTML Academy
+
+## Languages
+My level of English is A-2
