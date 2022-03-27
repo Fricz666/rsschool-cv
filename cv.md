@@ -32,11 +32,11 @@ alert(result);
 I dont have real experience
 
 ## Education
-* University: Belarus State University, Specialist in Aerospace Radio-Electronic and Information Systems and Technologies
+* **University** : Belarus State University, Specialist in Aerospace Radio-Electronic and Information Systems and Technologies
 * Courses:
-+ CS50
-+ JavaRush
-+ HTML Academy
+    + CS50
+    + JavaRush
+    + HTML Academy
 
 ## Languages
 My level of English is A-2
