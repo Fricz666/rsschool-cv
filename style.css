@@ -1,0 +1,112 @@
+header{
+    color: brown;
+    padding: 25px;
+    margin: 25px 50px 25px ;
+    background-size: cover;
+    border: 1px solid;
+    text-align: center;
+    background-color: yellow;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+body{
+     color: brown;
+     background-color: cadetblue ;
+ }
+
+.about_me{
+    border: 1px solid;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    font-style: oblique;
+    background-color: yellow;
+    margin: 0px 200px 0px 15px;
+    float: right;
+    font-size: 18px;
+}
+
+.example{
+    border: 1px solid;
+    width: 450px;
+    margin: 25px 15px 0px 200px;
+    text-align: center;
+    background-color: yellow;
+    padding: 0px 20px 0px 0px;
+
+}
+
+.work{
+    border: 1px solid;
+    text-align: center;
+    width: 600px;
+    background-color: yellow;
+    margin: 0px 200px 0px 15px;
+    padding: 0px 0px 20px 0px;
+    float: right;
+
+}
+
+.education{
+    border: 1px solid;
+    text-align: center;
+    width: 450px;
+    background-color: yellow;
+    margin: 25px 15px 0px 200px;
+    padding: 10px;
+
+}
+
+.contacts{
+    border: 1px solid;
+    text-align: center;
+    width: 600px;
+    background-color: yellow;
+    float: right;
+    margin: 0px 200px 0px 15px;
+}
+
+.skills{
+    border: 1px solid;
+    text-align: left;
+    width: 450px;
+    background-color: yellow;
+    margin: 25px 15px 0px 200px;
+    padding: 0px 20px 0px 0px;
+}
+
+.lang{
+    border: 1px solid;
+    text-align: center;
+    width: 600px;
+    background-color: yellow;
+    float: right;
+    margin: 0px 200px 100px 15px;
+}
+
+p{
+    text-align: justify;
+
+}
+
+.img{
+    width: 30%;
+    margin: 0px 15px 0px 200px;
+}
+
+code{
+    color: brown;
+}
+
+h3{
+    text-align: center;
+}
+
+footer{
+    color: yellow;
+    background-color: black;
+    margin: 200px 0px 0px;
+    padding: 15px;
+    height: 50px;
+}
